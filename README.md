@@ -10,7 +10,7 @@ TatuPlay é uma plataforma visual de catálogo de filmes e séries, desenvolvida
 
 # Objetivo
 
-Projeto criado para estudo e prática de front-end, organização de códifo e construação de portfólio real.
+Projeto criado para estudo e prática de front-end, organização de código e construção de portfólio real.
 
 # Funcionalidades
 
