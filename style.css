@@ -23,6 +23,7 @@ body {
     background: #BEBFB4;
     position: sticky;
     top: 0;
+    z-index: 999;
 }
 
 .logo img {
@@ -74,6 +75,7 @@ body {
 .card:hover {
     transform: translateY(-10px);
     box-shadow: 1px 4px 10px rgba(185, 185, 185, 0.479);
+    z-index: 0;
 }
 
 .card img {
